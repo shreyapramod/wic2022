@@ -1,0 +1,27 @@
+body {
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  margin: 0;
+  padding: 30px;
+}
+
+html, body {
+  height: 100%;
+}
+.header {
+  margin-left: 293px;
+  min-height: 400px;
+  padding: 2%;
+  color: white;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-image: url('static/Header.png');
+}
+.userRvw{
+  margin-left: 293px;
+  min-height: 400px;
+  padding: 2%;
+  color: white;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-image: url('static/UserReviews.png');
+}
